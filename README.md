@@ -1,2 +1,2 @@
 # be-the-hero
-Projeto para ajudar ongs
+Aplicação para ajudar ongs
